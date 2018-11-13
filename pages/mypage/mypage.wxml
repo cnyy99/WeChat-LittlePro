@@ -1,0 +1,6 @@
+<view class="container">
+<text>{{mypage}}</text>
+  <view class="button_move">
+    <button bindtap="moveto_NextPage" type='primary'>{{move_back}}</button>
+  </view>
+</view>

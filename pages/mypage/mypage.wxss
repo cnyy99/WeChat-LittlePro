@@ -1,0 +1,4 @@
+/* pages/mypage/mypage.wxss */
+.button_move {
+  margin-top: 50px;
+}
